@@ -6,7 +6,7 @@
 
 ## 说明
 
-麦葱特制多站合一音乐搜索解决方案，支持搜索试听以下网站音乐：
+多站合一音乐搜索解决方案，支持搜索试听以下网站音乐：
 
 [网易云音乐](http://music.163.com) [QQ音乐](http://y.qq.com) [酷狗音乐](http://www.kugou.com) [酷我音乐](http://www.kuwo.cn) [虾米音乐](http://www.xiami.com) [百度音乐](http://music.baidu.com) [一听音乐](http://www.1ting.com) [咪咕音乐](http://music.migu.cn) [荔枝FM](http://www.lizhi.fm) [蜻蜓FM](http://www.qingting.fm) [喜马拉雅FM](http://www.ximalaya.com) [全民K歌](http://kg.qq.com) [5sing原创](http://5sing.kugou.com/yc) [5sing翻唱](http://5sing.kugou.com/fc)
 
@@ -14,13 +14,13 @@
 
 ## 演示
 
-[http://music.2333.me/](http://music.2333.me/ "音乐搜索器")
+[http://musicjx.xo.je/](http://musicjx.xo.je/ "音乐搜索器")
 
 如果获取有误或需要改进，欢迎提交 [Issues](https://github.com/maicong/music/issues)
 
 ## 下载
 
-[📦 下载开发版](https://github.com/maicong/music/archive/master.zip) [📦 获取稳定版](https://github.com/maicong/music/releases)
+[📦 下载修复版](https://github.com/maicong/music/archive/master.zip) [📦 获取maicong源码](https://github.com/maicong/music/releases)
 
 ## 解决方案
 
@@ -68,10 +68,6 @@
 **3. 国内接口优化**
 
 如果你的网站在国内，打开 [/index.php](index.php)，将 `define('MC_INTERNAL', 0);` 修改为 `define('MC_INTERNAL', 1);`，这样就可以取到咪咕和网易云音乐的 320k 音频了。
-
-## 更新日志
-
-请查看 [CHANGELOG.md](CHANGELOG.md)
 
 ## 免责声明
 
