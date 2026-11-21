@@ -16,7 +16,7 @@
 
 [http://musicjx.xo.je/](http://musicjx.xo.je/ "音乐搜索器")
 
-如果获取有误或需要改进，欢迎提交 [Issues](https://github.com/maicong/music/issues)
+如果获取有误或需要改进，欢迎提交 [Issues](https://github.com/mmljc/music/issues)
 
 ## 下载
 
